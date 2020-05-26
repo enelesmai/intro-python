@@ -1,2 +1,2 @@
-# intro_python
+# intro-python
 Ejercicios python
